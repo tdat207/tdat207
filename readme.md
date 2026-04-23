@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/tdat207">
-    <img src="https://github-readme-stats.vercel.app/api?username=tdat207&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tdat207&show_icons=true&theme=radical&hide_border=false&border_radius=10" />
   </a>
   <a href="https://github.com/tdat207">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdat207&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdat207&layout=compact&theme=radical&hide_border=false&border_radius=10" />
   </a>
 </div>
 
@@ -41,13 +41,13 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🇯🇵 Learning Roadmap</h3>
+      <h3 align="center">🚀 Learning Roadmap</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Japanese-N4_to_N3-FF69B4?style=for-the-badge&logo=japanese&logoColor=white" />
+        <img src="https://img.shields.io/badge/Japanese-N4_to_N3-E0115F?style=for-the-badge&logo=japanese&logoColor=white" />
         <br />
         <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
         <br />
-        <img src="https://img.shields.io/badge/Frontend-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Frontend-React_JS-00D8FF?style=for-the-badge&logo=react&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -57,7 +57,7 @@
   <h3>📂 Featured Project</h3>
   <div style="padding: 20px; border: 2px solid #2ecc71; border-radius: 12px; background-color: #0d1117; max-width: 85%;">
     <h4 style="margin-top: 0;">📦 <a href="https://gamma.app/docs/He-Thong-Quan-Ly-Ban-Hang-Trung-Tam-flspgdgqz7xood6" style="color: #2ecc71; text-decoration: none;">Sales Management System (SRS)</a></h4>
-    <p style="color: #8b949e;">Software Requirement Specification for retail management. Focusing on Relational Database Design (1-N, N-N) and SQL Query Optimization.</p>
+    <p style="color: #8b949e;">Detailed SRS for retail management. Focusing on Relational DB Design and SQL Optimization.</p>
     <p><code>SQL</code> <code>SRS</code> <code>Database Design</code></p>
   </div>
 </div>
