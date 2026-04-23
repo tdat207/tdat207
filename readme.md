@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Dat+!;Console.log(%22I'm+Dat!%22);Senior+IT+Mentor+in+the+making..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Dat+!;Console.log(%22I'm+Dat!%22);Software+Engineer+in+the+making..." alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=tdat207&label=Profile%20Views&color=2ecc71&style=flat" alt="Views" />
   </p>
 
   <p align="center">
-    <b>Rikkeisoft - PTIT Student | <span style="color: #f1c40f;">Security-First Mindset</span></b>
+    <b>Rikkeisoft - PTIT Student | Database Design | Backend Development</b>
   </p>
 </div>
 
@@ -26,7 +26,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🖥️ Technical Arsenal</h3>
+      <h3 align="center">🖥️ Technical Stack</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -41,13 +41,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🗺️ Career Roadmap</h3>
+      <h3 align="center">🇯🇵 Learning Roadmap</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JLPT-N4_to_N3-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Target-30_Man-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Japanese-N4_to_N3-blue?style=flat-square" />
         <br />
-        <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Dev-Fullstack_Web-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Backend-Spring_Boot-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Frontend-React_JS-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -57,20 +56,20 @@
   <h3>📂 Featured Project</h3>
   <div style="padding: 20px; border: 1px solid #2ecc71; border-radius: 12px; background-color: #0d1117; max-width: 85%;">
     <h4 style="margin-top: 0;">📦 <a href="https://gamma.app/docs/He-Thong-Quan-Ly-Ban-Hang-Trung-Tam-flspgdgqz7xood6" style="color: #2ecc71; text-decoration: none;">Sales Management System (SRS)</a></h4>
-    <p style="color: #8b949e;">A deep dive into SQL Schema design and Business Logic for Retail Systems. Focusing on Security and Data Integrity.</p>
+    <p style="color: #8b949e;">Software Requirement Specification for retail management. Focusing on Relational Database Design (1-N, N-N) and SQL Query Optimization.</p>
+    <p><code>SQL</code> <code>SRS</code> <code>Database Design</code></p>
   </div>
 </div>
 
 <div align="center">
-  <h3>📈 Activity Pulse</h3>
+  <h3>📈 Coding Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tdat207&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <hr style="border-color: #30363d;" />
 
 <div align="center">
-  <h3>🤝 Let's Debug the World Together</h3>
+  <h3>🤝 Let's Connect</h3>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/your-profile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
