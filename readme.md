@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Dat+!;Console.log(%22I'm+Dat!%22);Senior+IT+Mentor+in+the+making..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Dat+!;Console.log(%22I'm+Dat!%22);Senior+IT+Mentor+in+the+making..." alt="Typing SVG" />
   
   <p align="center">
-    <i>Rikkeisoft - PTIT Student | <span style="color: #f1c40f;">Security-First Mindset</span></i>
+    <b>Rikkeisoft - PTIT Student | <span style="color: #f1c40f;">Security-First Mindset</span></b>
   </p>
 
   <p align="center">
@@ -40,7 +40,6 @@
       <h3 align="center">🇯🇵 Human OS & Goals</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JLPT-N4_to_N3-blue?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Weight-70kg_Target-orange?style=for-the-badge&logo=fitness" />
         <br />
         <img src="https://img.shields.io/badge/Salary-30_Man-green?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Status-Optimizing-success?style=for-the-badge" />
