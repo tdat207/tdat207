@@ -28,25 +28,26 @@
     <td width="50%" valign="top">
       <h3 align="center">🖥️ Technical Stack</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sql&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" />
         <br />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <br />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🇯🇵 Learning Roadmap</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Japanese-N4_to_N3-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Japanese-N4_to_N3-FF69B4?style=for-the-badge&logo=japanese&logoColor=white" />
         <br />
-        <img src="https://img.shields.io/badge/Backend-Spring_Boot-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Frontend-React_JS-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/Frontend-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -54,7 +55,7 @@
 
 <div align="center">
   <h3>📂 Featured Project</h3>
-  <div style="padding: 20px; border: 1px solid #2ecc71; border-radius: 12px; background-color: #0d1117; max-width: 85%;">
+  <div style="padding: 20px; border: 2px solid #2ecc71; border-radius: 12px; background-color: #0d1117; max-width: 85%;">
     <h4 style="margin-top: 0;">📦 <a href="https://gamma.app/docs/He-Thong-Quan-Ly-Ban-Hang-Trung-Tam-flspgdgqz7xood6" style="color: #2ecc71; text-decoration: none;">Sales Management System (SRS)</a></h4>
     <p style="color: #8b949e;">Software Requirement Specification for retail management. Focusing on Relational Database Design (1-N, N-N) and SQL Query Optimization.</p>
     <p><code>SQL</code> <code>SRS</code> <code>Database Design</code></p>
@@ -63,7 +64,7 @@
 
 <div align="center">
   <h3>📈 Coding Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tdat207&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tdat207&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true&border_radius=10" width="100%" />
 </div>
 
 <hr style="border-color: #30363d;" />
