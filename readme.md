@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e2e,50:313244,100:cba6f7&height=180&section=header&text=tdat207&fontSize=55&fontColor=cdd6f4&animation=fadeIn&fontAlignY=42&desc=Rikkeisoft%20-%20PTIT%20|%20Backend%20%26%20Database%20Developer&descAlignY=68&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e2e,50:313244,100:cba6f7&height=150&section=header&text=tdat207&fontSize=55&fontColor=cdd6f4&animation=twinkling&fontAlignY=50" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Dat!;console.log(%22Welcome+to+my+GitHub%22);Rikkeisoft+-+PTIT+Student;Backend+%26+Database+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
