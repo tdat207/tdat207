@@ -1,67 +1,73 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e2e,50:313244,100:cba6f7&height=150&section=header&text=tdat207&fontSize=55&fontColor=cdd6f4&animation=twinkling&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ecc71&height=160&section=header&text=Welcome%20to%20my%20profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Dat!;console.log(%22Welcome+to+my+GitHub%22);Rikkeisoft+-+PTIT+Student;Backend+%26+Database+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Dat+!;console.log(%22I'm+Dat!%22);Software+Engineer+in+the+making..." alt="Typing SVG" />
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tdat207&label=Profile%20Views&color=2ecc71&style=flat" alt="Views" />
+  </p>
+
+  <p align="center">
+    <b>Rikkeisoft - PTIT Student | Database Design | Backend Development</b>
+  </p>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tdat207&label=PROFILE%20VIEWS&color=cba6f7&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<br />
-
-```json
-{
-  "name": "Dat",
-  "education": "Rikkeisoft - PTIT",
-  "focus": ["Backend Development", "Database Design", "Web Applications"],
-  "roadmap": {
-    "japanese": "N4 to N3",
-    "backend": ["FastAPI", "Spring Boot"],
-    "frontend": "React"
-  }
-}
-```
-
-<br />
+<hr style="border-color: #30363d;" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,fastapi,mysql,git,docker&theme=dark&perline=10" alt="Tech Stack" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tdat207&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=cba6f7&icon_color=89b4fa" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdat207&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=cba6f7" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tdat207&theme=catppuccin-mocha&hide_border=true&background=0d1117&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7" height="165" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tdat207&bg_color=0d1117&color=cdd6f4&line=cba6f7&point=fab387&area=true&area_color=cba6f7&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1e1e2e?style=for-the-badge&logo=gmail&logoColor=cba6f7" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" alt="LinkedIn" />
+  <a href="https://github.com/tdat207">
+    <img src="https://github-readme-stats.vercel.app/api?username=tdat207&show_icons=true&theme=radical&hide_border=false&border_radius=10" />
   </a>
   <a href="https://github.com/tdat207">
-    <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=fab387" alt="GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdat207&layout=compact&theme=radical&hide_border=false&border_radius=10" />
   </a>
 </div>
 
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🖥️ Technical Stack</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <br />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Learning Roadmap</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Japanese-N4_to_N3-E0115F?style=for-the-badge&logo=japanese&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/Frontend-React_JS-00D8FF?style=for-the-badge&logo=react&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:cba6f7,50:313244,100:1e1e2e&height=90&section=footer" width="100%" />
+  <h3>📈 Coding Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tdat207&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true&border_radius=10" width="100%" />
+</div>
+
+<hr style="border-color: #30363d;" />
+
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
